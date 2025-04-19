@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytest
+python-multipart
+elasticsearch
+faiss-cpu
+fuzzywuzzy
+python-Levenshtein  # Optional, for better performance with fuzzywuzzy
